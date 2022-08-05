@@ -1,4 +1,4 @@
-# <!--  Home -->
+### I was part of this project during uni and plan to maintain it in the near future
 
 ![](Corporate%20Identity/6inarow_temp.png)  
 Team 6InARow (CEP 2021 - Hochschule Mannheim)
